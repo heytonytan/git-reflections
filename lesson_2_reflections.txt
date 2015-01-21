@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A hidden repository folder is created, named .git. It needs to be done because
+there are config files that track the changes made to each commit in the git
+repository. It is the command that turns an ordinary directory into a git
+repository, and allows the functions of git to be used.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area is a conceptual location where we place the files we want to make
+commits to the repository to lock in as one logical change. The value it offers is
+that it allows the user to submit only the files he or she thinks is associated
+with the change. For instance, if there are files A, B, and C in the folder, and
+while A, B, and C have edits made to it, only A and B are associated with the
+change, then we can add only A and B to the staging area.
