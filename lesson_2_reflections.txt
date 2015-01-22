@@ -20,3 +20,15 @@ change?
 
 You can add only files associated with the change you are making, and make
 meaningful comments to the commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+When I want to develop a code project in differing parallel tracks. Like having an
+additional feature or developing in a different language. Branches would help
+because we would then be able to develop differing versions in tandem.
+
+
+
+
+
