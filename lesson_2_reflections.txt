@@ -28,7 +28,10 @@ When I want to develop a code project in differing parallel tracks. Like having 
 additional feature or developing in a different language. Branches would help
 because we would then be able to develop differing versions in tandem.
 
+How do the diagrams help you visualize the branch structure?
 
+The diagrams help you trace the branches back to where they diverge, as well as
+whether there are any "stray" commits.
 
 
 
