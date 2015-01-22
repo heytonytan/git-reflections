@@ -14,3 +14,9 @@ that it allows the user to submit only the files he or she thinks is associated
 with the change. For instance, if there are files A, B, and C in the folder, and
 while A, B, and C have edits made to it, only A and B are associated with the
 change, then we can add only A and B to the staging area.
+
+How can you use the staging area to amke sure you have one commit per logical
+change?
+
+You can add only files associated with the change you are making, and make
+meaningful comments to the commit.
