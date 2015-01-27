@@ -7,3 +7,11 @@ up-to-date with your remote repository?
 
 This is because I would want to code based on that particular commmit, and even if the remote
 repository has changes, I would want to commit to the version I had initially pulled.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Forks clone git repos within the server. Clones copy git repos from the server to a local repo.
+Branches create alternative paths of commits. I would use fork when obtaining a copy of
+someone else's code, I would clone when pulling one of my repositories from the server down
+to a local copy.
