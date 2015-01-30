@@ -26,3 +26,15 @@ harder?
 You would have to compare between files and manually add in the changes. It would be a less
 technical process, but there would be a lot of mess ups, especially when the work flow gets
 complicated.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+I would want to make changes in a separate branch rather than directly in master, when I
+want to work on a feature seperate from the master branch (production code). Making changes
+directly in master has the benefit of speed, in getting changes up. Making changes in a
+separate branch allows people to work independently.
+
+
+
+
